@@ -1,4 +1,4 @@
-country	year	pop	continent	lifeExp	gdpPercap
+country	year	pop	continent	lifeExp	gdpPerCap
 UnitedStates	1952	157553000	Americas	68.44	13990
 UnitedStates	1957	171984000	Americas	69.49	14847
 UnitedStates	1962	186538000	Americas	70.21	16173
