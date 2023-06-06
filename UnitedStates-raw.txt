@@ -1,0 +1,15 @@
+country	year	pop	continent	lifeExp	gdpPercap
+UnitedStates	1952	157553000	Americas	68.44	13990
+UnitedStates	1957	171984000	Americas	69.49	14847
+UnitedStates	1962	186538000	Americas	70.21	16173
+UnitedStates	1967	198712000	Americas	70.76	19530
+UnitedStates	1972	209896000	Americas	71.34	21806
+UnitedStates	1977	220239000	Americas	73.38	24072
+UnitedStates	1982	232187835	Americas	74.65	25009
+UnitedStates	1987	242803533	Americas	75.02	29884
+UnitedStates	1992	256894189	Americas	76.09	32003
+UnitedStates	1997	272911760	Americas	76.81	35767
+UnitedStates	2002	287675526	Americas	77.31	39097
+UnitedStates	2007	301139947	Americas	78.242	42951
+					
+					
